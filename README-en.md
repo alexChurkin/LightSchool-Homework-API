@@ -43,3 +43,5 @@ In the **"Administrator token"** field enter ADMIN_TOKEN which we have written t
 It's time to write your first homework. Click on the plus sign in the upper right corner, write a subject and a homework.
 
 Excellent, everything is ready to use.
+
+![Example screenshot](https://github.com/alexChurkin/LightSchool-Homework-API/raw/master/Example_screenshot.png)

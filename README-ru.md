@@ -44,3 +44,5 @@ CREATE TABLE `database_name`.`table_homework` ( `id` INT NOT NULL AUTO_INCREMENT
 Пришло время записать первое домашнее задание. Жмём на плюсик в правом верхнем углу, выбираем предмет и выдумываем задание. Записалось – отлично, всё готово.
 
 LightSchool API настроен и готов к использованию!
+
+![Скриншот для примера](https://github.com/alexChurkin/LightSchool-Homework-API/raw/master/Example_screenshot.png)
