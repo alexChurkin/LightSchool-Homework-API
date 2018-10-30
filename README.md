@@ -4,20 +4,19 @@ Today we present you a fast and convenient way to share homework between classma
 
 For easy setup, we'll need:
 - Device with LightSchool and Internet connection
-- Hosting with support for PHP + MySql (even free) and the ability to connect via FTP
+- Hosting which supports PHP + MySql and the ability to connect via FTP
 
 ## Сonfiguring the server:
-Download the necessary files from this link:
-https://github.com/alexChurkin/LightSchool-Homework-API
+Download the necessary files here (click **Clone or download** -> **Download ZIP**)
 Our API is located in the API folder.
 
 Then in phpMyAdmin create a new MySql database and a table with any convenient name (for example table_homework).
 
-Then edit the constants in the config file we downloaded.php.
+Then change the constants in the config file we downloaded.php.
 
 **HOST** can be changed if something else is specified on the hosting instead of localhost;
 
-**USERNAME** – the username from a MySql (which we introduce in php);
+**USERNAME** – the username from a MySql (which we have entered in php);
 
 **PASS** – password used to log into MySql;
 
