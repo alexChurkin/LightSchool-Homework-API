@@ -12,7 +12,7 @@ Our API is located in the API folder.
 
 Then in phpMyAdmin create a new MySql database and a table with any convenient name (for example table_homework).
 
-Then change the constants in the config file we downloaded.php.
+Then change some constants in the **config.php** file.
 
 **HOST** can be changed if something else is specified on the hosting instead of localhost;
 
