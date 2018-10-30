@@ -36,9 +36,9 @@ The server is successfully configured!
 ## Configuring the application:
 Go to settings -> homework, select "**Server administration mode**".
 
-In the field "Full server url" specify the address of the folder where we put our API files. For example: http://api.lightschool.com/homework/
+In the field **"Full server url"** specify the address of the folder where we put our API files. For example: http://api.lightschool.com/homework/
 
-In the "Administrator token" field enter ADMIN_TOKEN which we have written to the config.php.
+In the **"Administrator token"** field enter ADMIN_TOKEN which we have written to the config.php.
 
 It's time to write your first homework. Click on the plus sign in the upper right corner, write a subject and a homework.
 
