@@ -45,4 +45,6 @@ CREATE TABLE `database_name`.`table_homework` ( `id` INT NOT NULL AUTO_INCREMENT
 
 LightSchool API настроен и готов к использованию!
 
-![Скриншот для примера](https://github.com/alexChurkin/LightSchool-Homework-API/raw/master/Example_screenshot.png)
+![Скриншот примера](https://github.com/alexChurkin/LightSchool-Homework-API/raw/master/Example_screenshot.png)
+
+Если у ваших одноклассников нет устройств на Android, они могут получать задания по прямому адресу сервера, о котором говорилось выше :)

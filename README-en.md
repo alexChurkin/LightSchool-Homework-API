@@ -45,3 +45,5 @@ It's time to write your first homework. Click on the plus sign in the upper righ
 Excellent, everything is ready to use.
 
 ![Example screenshot](https://github.com/alexChurkin/LightSchool-Homework-API/raw/master/Example_screenshot.png)
+
+If your classmates don't have devices on Android, they can receive homework by direct server url which was mentioned above :)
