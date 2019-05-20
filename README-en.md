@@ -16,11 +16,11 @@ Then change some constants in the **config.php** file.
 
 **HOST** can be changed if something else is specified on the hosting instead of localhost;
 
+**DBNAME** – the name of the database we will use;
+
 **USERNAME** – the username from a MySql (which we have entered in php);
 
 **PASS** – password used to log into MySql;
-
-**DBNAME** – the name of the database we will use;
 
 **ADMIN_TOKEN** – here you must enter the password to add / change / delete homework;
 
