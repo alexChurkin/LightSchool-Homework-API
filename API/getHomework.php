@@ -18,7 +18,7 @@ while ( $stmt->fetch() ) {
     $counter++;
 }
 
-$json_data = json_encode($hometasks_array, JSON_UNESCAPED_UNICODE);
+$json_data = json_encode($hometasks_array, JSON_PRETTY_PRINT | JSON_UNESCAPED_UNICODE);
 echo $json_data;
 $mysqli->close();	
 ?>

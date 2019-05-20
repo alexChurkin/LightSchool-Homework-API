@@ -1,8 +1,9 @@
 <?php
 const HOST     =  "localhost";
+
+const DBNAME   =  "database_name";
 const USERNAME =  "username";
 const PASS     =  "password";
-const DBNAME   =  "database_name";
 $TABLE = "table_homework";
 
 //Secure key which give access to adding / editing / deleting homework
